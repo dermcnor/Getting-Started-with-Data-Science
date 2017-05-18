@@ -11,7 +11,7 @@ Some links/resources for learning Data Science
 - Elements of Statistical Learning - Hastie, Tibshirani, & Friedman
     + [book](http://amzn.com/0387848576) | [pdf](https://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
-## Choose 1 (... or both :simple_smile:)
+## Choose 1 (... or both :smiley:)
 
 ### R
 
