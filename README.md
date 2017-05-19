@@ -41,12 +41,19 @@ Some links/resources for learning Data Science
 
 ## Advanced / Theory
 
+### Big Data
+
+- Title - Author
+    + [Mining of Massive Datasets](http://amzn.com/1107077230) | [webpage](http://www.mmds.org/#ver21)
+
 ### Categorical Data
+
 - Categorical Data Analysis - Agresti
     + [book](http://amzn.com/0470463635) | [pdf](https://mathdept.iut.ac.ir/sites/mathdept.iut.ac.ir/files/AGRESTI.PDF)
 
 
 ## Template
+
 - Title - Author
     + [book](http://amzn.com/) | [webpage]()
 
