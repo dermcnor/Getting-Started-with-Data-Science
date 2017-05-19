@@ -10,6 +10,11 @@ Some links/resources for learning Data Science
     + [book](http://amzn.com/1461471370) | [pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 - Elements of Statistical Learning - Hastie, Tibshirani, & Friedman
     + [book](http://amzn.com/0387848576) | [pdf](https://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+    
+### Data Mining Process
+
+- CRISP-DM
+    + [description](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining) | [pdf](https://www.the-modeling-agency.com/crisp-dm.pdf) | [visual guide](https://exde.files.wordpress.com/2009/03/crisp_visualguide.pdf)
 
 ## Choose 1 (... or both :smiley:)
 
