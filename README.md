@@ -43,8 +43,8 @@ Some links/resources for learning Data Science
 
 ### Big Data
 
-- Title - Author
-    + [Mining of Massive Datasets](http://amzn.com/1107077230) | [webpage](http://www.mmds.org/#ver21)
+- Mining of Massive Datasets - Leskovec, Rajaraman, & Ullman
+    + [book](http://amzn.com/1107077230) | [webpage](http://www.mmds.org/#ver21)
 
 ### Categorical Data
 
