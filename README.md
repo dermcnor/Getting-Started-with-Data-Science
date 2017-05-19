@@ -29,7 +29,7 @@ Some links/resources for learning Data Science
 
 #### R Programming
 
-- R for Dummies - de Vries $ Meys
+- R for Dummies - de Vries & Meys
     + [book](http://amzn.com/1119055806) | [webpage](http://www.dummies.com/programming/r/)
 - The Art of R Programming - Matloff
     + [book](http://amzn.com/1593273843) | [pdf](http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/The%20Art%20of%20R%20Programming.pdf)
